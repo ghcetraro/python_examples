@@ -1,0 +1,6 @@
+Piense un número de 1 a 4.
+Conteste S (sí) o N (no) a mis preguntas.
+¿El número pensado es mayor que 2? S
+¿El número pensado es mayor que 3? N
+El número pensado es 3
+¡Hasta la próxima!

@@ -1,0 +1,3 @@
+Escriba un número positivo: -5
+¡Le he dicho que escriba un número positivo!
+Ha escrito el número -5
